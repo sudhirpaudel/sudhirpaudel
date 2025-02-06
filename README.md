@@ -11,8 +11,7 @@
 <h5 align="left">Computer Engineering graduate from Paschimanchal Campus, IOE, TU, with expertise in Flutter<br>development. Passionate about programming and problem-solving. Proven ability to create flawless<br>android mobile applications. Looking for an opportunity to work in projects with possibilities to learn new<br>skills, innovations and techniques.</h5>
 
 ###
-<h5 align="left">Connect with me</h5>
-<h5 align="left">spsudhirpaduel</h5>
+<h5 align="left">Connect with me  : iamsudhirpadudel@gmail.com</h5>
 
 <div align="left">
   <a href="https://www.linkedin.com/in/sudhir-paudel-1a19171a7/" target="_blank">
